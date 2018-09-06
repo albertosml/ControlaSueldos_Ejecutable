@@ -13,3 +13,5 @@ En este repositorio están disponible los archivos necesarios para ejecutar el p
 	- El ejecutable ".jar" ya que la aplicación está hecha con Java.
 	- La base de datos que es sqlite
 	- El pdf necesario para el rellenar el registro diario de horas trabajadas.
+
+IMPORTANTE: Todos los archivos deben estar ubicados en el mismo directorio.
