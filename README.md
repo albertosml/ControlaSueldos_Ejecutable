@@ -14,4 +14,4 @@ En este repositorio están disponible los archivos necesarios para ejecutar el p
 	- La base de datos que es sqlite
 	- El pdf necesario para el rellenar el registro diario de horas trabajadas.
 
-IMPORTANTE: Todos los archivos deben estar ubicados en el mismo directorio.
+IMPORTANTE: Todos los archivos deben estar ubicados en el mismo directorio. También, hay disponible otro repositorio llamado ControlaSueldos dónde está disponible el código fuente de la aplicación. 
