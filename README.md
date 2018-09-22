@@ -15,3 +15,5 @@ En este repositorio están disponible los archivos necesarios para ejecutar el p
 	- El pdf necesario para el rellenar el registro diario de horas trabajadas.
 
 IMPORTANTE: Todos los archivos deben estar ubicados en el mismo directorio. También, hay disponible otro repositorio llamado ControlaSueldos dónde está disponible el código fuente de la aplicación. 
+
+ACTUALIZACION: En el repositorio ControlaSueldos, he dejado el archivo "firmas.pdf", para ajustar la firma al cuadro del registro diario de trabajadores; si quieren saber más detalles sobre este archivo vayasen al README del repositorio donde he dejado el archivo o contacten conmigo. 
